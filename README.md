@@ -1,2 +1,4 @@
 # InfomaxGPT
-The work carried out by the developer for Infomax College's own local LLM.
+The work carried out by Rajeev Poudel for Infomax College's own local LLM.
+
+
